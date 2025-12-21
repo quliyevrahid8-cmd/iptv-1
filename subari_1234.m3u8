@@ -1,0 +1,388 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+#EXTGRP:Информационные
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:0,Россия-1
+#EXTGRP:Информационные
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Информационные
+http://95.66.188.74/NTV/mono.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Информационные
+http://95.66.188.74/Rossia24/mono.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Информационные
+http://95.66.188.74/OTR/mono.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Информационные
+http://95.66.188.74/Zvezda/mono.m3u8
+#EXTINF:0,МИР
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/33/index.m3u8
+#EXTINF:0,360 HD
+#EXTGRP:Информационные
+http://95.66.188.74/360_HD/mono.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:0,ТРО - БелРос
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/37/index.m3u8
+#EXTINF:0,8 Канал
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:0,Беларусь 24
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:0,Первый канал Full-HD
+#EXTGRP:Информационные
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Информационные
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:0,РБК
+#EXTGRP:Информационные
+http://95.66.188.74/RBK/mono.m3u8
+#EXTINF:0,Матч!
+#EXTGRP:Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:Досуг
+http://95.66.188.74/5kanal/mono.m3u8
+#EXTINF:0,Россия-К
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:0,Спас
+#EXTGRP:Досуг
+http://95.66.188.74/spas/mono.m3u8
+#EXTINF:0,Бобер
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/77/index.m3u8
+#EXTINF:0,Домашние животные
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:0,Наша тема
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:0,СОЮЗ HD
+#EXTGRP:Досуг
+http://95.66.188.74/Soyuz/mono.m3u8
+#EXTINF:0,Вместе-РФ HD
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/86/index.m3u8
+#EXTINF:0,Точка ТВ
+#EXTGRP:Досуг
+http://95.66.188.74/HD_Life/mono.m3u8
+#EXTINF:0,ЦТВ
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:Досуг
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:0,Живая природа
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:0,Витрина
+#EXTGRP:Досуг
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:0,Ювелирочка
+#EXTGRP:Досуг
+http://95.66.188.74/Juvelirochka/mono.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Детские
+http://95.66.188.74/Karusel/mono.m3u8
+#EXTINF:0,Мульт
+#EXTGRP:Детские
+http://95.66.188.74/Mult_HD/mono.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:Детские
+http://95.66.188.74/Multilandia/mono.m3u8
+#EXTINF:0,О!
+#EXTGRP:Детские
+http://95.66.188.74/O/mono.m3u8
+#EXTINF:0,Мульт и музыка
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:0,Ani
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/74/index.m3u8
+#EXTINF:0,Радость Моя
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:0,Суббота!
+#EXTGRP:Детские
+http://95.66.188.74/Subbota/mono.m3u8
+#EXTINF:0,Cолнце
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP:Детские
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:0,Рыжий
+#EXTGRP:Детские
+http://95.66.188.74/RYZHIY/mono.m3u8
+#EXTINF:0,РЕН-ТВ
+#EXTGRP:Развлекательные
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Развлекательные
+http://95.66.188.74/STS/mono.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Развлекательные
+http://95.66.188.74/Domashnij/mono.m3u8
+#EXTINF:0,ТВ-3
+#EXTGRP:Развлекательные
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:Развлекательные
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Развлекательные
+http://95.66.188.74/TNT/mono.m3u8
+#EXTINF:0,ТНТ Full-HD
+#EXTGRP:Развлекательные
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Развлекательные
+http://95.66.188.74/THT4/mono.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Развлекательные
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:0,Поехали!
+#EXTGRP:Развлекательные
+http://95.66.188.74/Poehali/mono.m3u8
+#EXTINF:0,Че
+#EXTGRP:Развлекательные
+http://95.66.188.74/Che/mono.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Развлекательные
+http://95.66.188.74/CTC_Love/mono.m3u8
+#EXTINF:0,2х2
+#EXTGRP:Развлекательные
+http://95.66.188.74/2x2/mono.m3u8
+#EXTINF:0,Ю
+#EXTGRP:Развлекательные
+http://95.66.188.74/U/mono.m3u8
+#EXTINF:0,Крым ТВ
+#EXTGRP:Развлекательные
+http://178.212.71.253:8000/play/381/index.m3u8
+#EXTINF:0,Загородный
+#EXTGRP:Развлекательные
+http://95.66.188.74/Zagorodniy/mono.m3u8
+#EXTINF:0,Охота и Рыбалка
+#EXTGRP:Развлекательные
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:0,Драйв
+#EXTGRP:Развлекательные
+http://95.66.188.74/Drive/mono.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Развлекательные
+http://95.66.188.74/Oruzhie/mono.m3u8
+#EXTINF:0,Продвижение
+#EXTGRP:Развлекательные
+http://178.212.71.253:8000/play/140/index.m3u8
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:Развлекательные
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:0,BRIDGE CLASSIC
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:0,Шансон-TB
+#EXTGRP:Музыка
+http://95.66.188.74/Shanson_TV/mono.m3u8
+#EXTINF:0,BRIDGE Шлягер
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:0,BRIDGE HITS
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:0,Жара
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:0,BRIDGE
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:0,Russian Music Box
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:Музыка
+http://95.66.188.74/BridgeTV/mono.m3u8
+#EXTINF:0,Music Box Russia
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:0,Bridge HD
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:0,Bridge TV Rock
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:0,BridgeTV Hit
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:0,Bridge TV classic
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:0,Bridge TV Шлягер
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:0,RU.TV
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:0,O2TV
+#EXTGRP:Музыка
+http://95.66.188.74/O2TV/mono.m3u8
+#EXTINF:0,МузСоюз
+#EXTGRP:Музыка
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:0,РБК ТВ Full-HD
+#EXTGRP:Новости
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:Новости
+http://95.66.188.74/Krasnaya_Liniya/mono.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP:Новости
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:0,Соловьёв LIVE
+#EXTGRP:Новости
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:0,Известия HD
+#EXTGRP:Новости
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Кино
+http://95.66.188.74/Pobeda/mono.m3u8
+#EXTINF:0,Мосфильм. Золотая Коллекция
+#EXTGRP:Кино
+http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP:Кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:0,Дом кино Премиум Full-HD
+#EXTGRP:Кино
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:0,Русский роман
+#EXTGRP:Кино
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:0,Русский Детектив
+#EXTGRP:Кино
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:0,НСТВ (Страшное)
+#EXTGRP:Кино
+http://95.66.188.74/NST/mono.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:0,Русский Бестселер
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:0,Киносат
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:Кино
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP:Кино
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP:Кино
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:0,НТВ Сериалы Скорая помощь
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Пёс
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Первый отдел
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Шеф
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Невский
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Балабол
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,НТВ Сериалы Пять минут тишины
+#EXTGRP:НТВ Сериалы
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,Конный мир
+#EXTGRP:Спорт
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:0,Моя планета
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:0,Моя Планета Full-HD
+#EXTGRP:Познавательные
+http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+#EXTINF:0,Живая планета
+#EXTGRP:Познавательные
+http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
+#EXTINF:0,Наука
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:0,История
+#EXTGRP:Познавательные
+http://95.66.188.74/Istoria/mono.m3u8
+#EXTINF:0,Техно 24
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:0,Большая Азия
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:0,RT Documentary
+#EXTGRP:Познавательные
+http://95.66.188.74/RT_Doc_HD/mono.m3u8
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Познавательные
+http://95.66.188.74/ZdorovoeTV/mono.m3u8
+#EXTINF:0,Арсенал HD
+#EXTGRP:Познавательные
+http://95.66.188.74/Arsenal_HD/mono.m3u8
+#EXTINF:0,RTG TV
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:0,Психология 21
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/96/index.m3u8
