@@ -1,0 +1,424 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_OTR.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
+#EXTINF:0,СТС
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:ЭФИРНЫЕ
+http://dmi3y-tv.ru/hls/T2/CH_TNTHD.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1.m3u8
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EUROSPORT2.m3u8
+#EXTINF:0,EUROSPORT 2 HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EUROSPORT2HD.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EXTREMESPORTS.m3u8
+#EXTINF:0,АВТО24
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
+#EXTINF:0,ДРАЙВ
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_DRIVE.m3u8
+#EXTINF:0,HD REX HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_HDREXHD.m3u8
+#EXTINF:0,AMEDIA I
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_AMEDIAI.m3u8
+#EXTINF:0,AMEDIA HIT
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_AMEDIAHIT.m3u8
+#EXTINF:0,AMEDIA PREMIUM
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUM.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TV1000.m3u8
+#EXTINF:0,TV1000 ACTION
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
+#EXTINF:0,TV1000 РУССКОЕ КИНО
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TV1000RUSSKOEKINO.m3u8
+#EXTINF:0,ViP COMEDY HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIPCOMEDYHD.m3u8
+#EXTINF:0,ViP MEGAHIT HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIPMEGAHITHD.m3u8
+#EXTINF:0,ViP PREMIERE HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIPPREMIEREHD.m3u8
+#EXTINF:0,ЕВРОКИНО
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EVROKINO.m3u8
+#EXTINF:0,Иллюзион+
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ILLUZION_PLUS.m3u8
+#EXTINF:0,Русский иллюзион
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_ILLUZION.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_KINOPOKAZ.m3u8
+#EXTINF:0,HOLLYWOOD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_HOLLYWOOD.m3u8
+#EXTINF:0,Точка BLACK
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_BLACK.m3u8
+#EXTINF:0,Точка RED
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RED.m3u8
+#EXTINF:0,КИНО ТВ HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_KINOTVHD.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_OSTROSUZHETNOEHD.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_PREMIALNOEHD.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_NST.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_LUBIMOEKINO.m3u8
+#EXTINF:0,Русский роман
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_DETEKTIV.m3u8
+#EXTINF:0,ВРЕМЯ
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VREMYA.m3u8
+#EXTINF:0,ROMANCE
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ROMANCE.m3u8
+#EXTINF:0,TVRUS
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TVRUS.m3u8
+#EXTINF:0,TVRUS+
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TVRUS_PLUS.m3u8
+#EXTINF:0,SHOT TV
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_SHOT_TV.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ANIMALPLANET.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNEL.m3u8
+#EXTINF:0,HISTORY
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_HISTORY.m3u8
+#EXTINF:0,HISTORY HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_HISTORYHD.m3u8
+#EXTINF:0,National Geographic WILD HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILDHD.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICHD.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIASATHISTORY.m3u8
+#EXTINF:0,Viasat Nature
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TRAVELCHANNELHD.m3u8
+#EXTINF:0,ОХОТА И РЫБАЛКА
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_OHOTAIRYBALKA.m3u8
+#EXTINF:0,TOP SECRET
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TOPSECRET.m3u8
+#EXTINF:0,Зоо ТВ
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_3OOTV.m3u8
+#EXTINF:0,Телепутешествия
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TELEPUTESHESTVIYA.m3u8
+#EXTINF:0,Рыболов
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RYBOLOV.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TLCHD.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
+#EXTINF:0,Ретро
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RETRO.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VOPROSYIOTVETY.m3u8
+#EXTINF:0,Загородная жизнь
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
+#EXTINF:0,English Club
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_ENGLISHCLUB.m3u8
+#EXTINF:0,Моя стихия
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MOYASTIHIYA.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
+#EXTINF:0,RTG SD
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RTGSD.m3u8
+#EXTINF:0,Мужской
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MUZHSKOY.m3u8
+#EXTINF:0,Т24
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_T24.m3u8
+#EXTINF:0,Санкт-Петербург HD (Санкт-Петербург)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/region/CH_SPBHD_SPB.m3u8
+#EXTINF:0,Грозный (Грозный)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/region/CH_GROZNY_GROZNY.m3u8
+#EXTINF:0,Грозный HD720 (Грозный)
+#EXTGRP:
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:0,Gulli GIRL
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_GULLI_GIRL.m3u8
+#EXTINF:0,Nickelodeon (Германия)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_NICKELODEON_GERMAN.m3u8
+#EXTINF:0,В гостях у сказки
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_DAVINCI.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
+#EXTINF:0,Уникум
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_UNIKUM.m3u8
+#EXTINF:0,Суббота!
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_SUBBOTA.m3u8
+#EXTINF:0,2x2
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_2X2.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_TNT4.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
+#EXTINF:0,RTVI
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_RTVI.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTV.m3u8
+#EXTINF:0,МУЗЫКА ПЕРВОГО
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MUZYKAPERVOGO.m3u8
+#EXTINF:0,MCM TOP
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MCM_TOP.m3u8
+#EXTINF:0,MTV 00s
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MTV_00S.m3u8
+#EXTINF:0,mezzo
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_MEZZO.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_FASHIONTV.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_EURONEWS.m3u8
+#EXTINF:0,BBC News Europe
+#EXTGRP:
+http://dmi3y-tv.ru/hls/CH_BBCNEWS_EUROPE.m3u8
+#EXTINF:0,1+1 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_1PLUS1.m3u8
+#EXTINF:0,2+2 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_2PLUS2.m3u8
+#EXTINF:0,5 канал (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_5TV.m3u8
+#EXTINF:0,5 канал HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_5TVHD.m3u8
+#EXTINF:0,24 канал (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_24TV.m3u8
+#EXTINF:0,24 канал HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_24TVHD.m3u8
+#EXTINF:0,ATR (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ATR.m3u8
+#EXTINF:0,ECO TV (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ECOTV.m3u8
+#EXTINF:0,ENTER ФIЛЬМ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ENTERFILM.m3u8
+#EXTINF:0,ENTER ФIЛЬМ HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ENTERFILMHD.m3u8
+#EXTINF:0,ICTV (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ICTV.m3u8
+#EXTINF:0,ICTV HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ICTVHD.m3u8
+#EXTINF:0,K1 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_K1.m3u8
+#EXTINF:0,K2 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_K2.m3u8
+#EXTINF:0,LALE (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_LALE.m3u8
+#EXTINF:0,М1 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_M1.m3u8
+#EXTINF:0,М1 HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_M1HD.m3u8
+#EXTINF:0,М2 (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_M2.m3u8
+#EXTINF:0,М2 HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_M2HD.m3u8
+#EXTINF:0,OЦE (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_OCE.m3u8
+#EXTINF:0,Milady (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_MILADY.m3u8
+#EXTINF:0,ТЕТ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_TET.m3u8
+#EXTINF:0,ZOOM (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ZOOM.m3u8
+#EXTINF:0,IHTEP (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_INTER.m3u8
+#EXTINF:0,IHTEP HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_INTERHD.m3u8
+#EXTINF:0,МЕГА (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_MEGA.m3u8
+#EXTINF:0,НАДIЯ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_NADIYA.m3u8
+#EXTINF:0,Новый канал (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_NEWKANAL.m3u8
+#EXTINF:0,Новый канал HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_NEWKANALHD.m3u8
+#EXTINF:0,НТН (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_NTN.m3u8
+#EXTINF:0,СУСПIЛЬНЕ КРИМ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_SUSPILNEKRIM.m3u8
+#EXTINF:0,СУСПIЛЬНЕ КУЛЬТУРА (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_SUSPILNEKULTURA.m3u8
+#EXTINF:0,ПЕРШИЙ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PERSHIY.m3u8
+#EXTINF:0,ПIКСЕЛЬ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PIKSEL.m3u8
+#EXTINF:0,ПIКСЕЛЬ HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PIKSELHD.m3u8
+#EXTINF:0,РАДА (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_RADA.m3u8
+#EXTINF:0,СОНЦЕ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_SONCE.m3u8
+#EXTINF:0,СТБ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_STB.m3u8
+#EXTINF:0,СТБ HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_STBHD.m3u8
+#EXTINF:0,Espreso TV (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_ESPRESOTV.m3u8
+#EXTINF:0,ПРЯМИЙ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PRYAMIY.m3u8
+#EXTINF:0,ПРЯМИЙ HD (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PRYAMIYHD.m3u8
+#EXTINF:0,ПРАВДА ТУТ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_PRAVDATUT.m3u8
+#EXTINF:0,FREEДОМ (Украина)
+#EXTGRP:
+http://dmi3y-tv.ru/hls/ua/CH_FREEDOM.m3u8
